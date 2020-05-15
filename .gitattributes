@@ -1,0 +1,4 @@
+*.txt filter=lfs diff=lfs merge=lfs -text
+en_US.news.txt filter=lfs diff=lfs merge=lfs -text
+en_US.blogs.txt filter=lfs diff=lfs merge=lfs -text
+en_US.twitter.txt filter=lfs diff=lfs merge=lfs -text
