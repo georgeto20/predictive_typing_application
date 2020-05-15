@@ -1,1 +1,1 @@
-This repo contains the code for the predictive typing application which served as my final project for the NLP course that I took at NYU during Fall 2018. To find out more about the project, click [here](https://github.com/georgeto20/predictive_typing_application/blob/master/gt941_Final%20Project%20Final%20Draft.pdf).
+This repo contains the code for the predictive typing application which served as my final project for the NLP course that I took at NYU during Fall 2018. To find out more about the project, click [here](gt941_Final%20Project%20Final%20Draft.pdf).
